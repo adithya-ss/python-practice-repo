@@ -2,3 +2,4 @@
 Repository to keep track of python practice exercises.
 
 Feb 20th, 2022 - Lists. <br />
+Feb 21st, 2022 - Tuples. <br />
