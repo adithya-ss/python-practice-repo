@@ -7,3 +7,4 @@ Feb 22nd, 2022 - Dictionaries. <br />
 Feb 23rd, 2022 - Sets. <br />
 Feb 24th, 2022 - Collections. <br />
 Feb 25th, 2022 - Iterators. <br />
+Feb 27th, 2022 - Lambda Functions. <br />
