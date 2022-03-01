@@ -1,0 +1,10 @@
+{
+    "player_name": "John Terry",
+    "age": 42,
+    "country": "United Kingdom",
+    "clubs_played_for": [
+        "Chelsea FC",
+        "Aston Villa FC"
+    ],
+    "coach": true
+}
