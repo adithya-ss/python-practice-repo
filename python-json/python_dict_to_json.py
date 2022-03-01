@@ -28,3 +28,10 @@ player_dict = json.loads(playerJSON)
 print("After converting to dictionary:")
 print(player_dict)
 print("")
+
+# Loading a JSON file and coverting it into a dictionary.
+with open('./python-json/player.json','r') as pl_file:
+    dict_player = json.load(pl_file)
+    print("Read a json file and convert into a dictionary:")
+    print(dict_player)
+    print("")
