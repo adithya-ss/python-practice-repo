@@ -13,3 +13,4 @@ Mar 01st, 2022 - JSON. <br />
 Mar 02nd, 2022 - Decorators. <br />
 Mar 03rd, 2022 - Multithreading and multiprocessing. <br />
 Apr 05th, 2022 - Generators. <br />
+Apr 05th, 2022 - Zip. <br />
