@@ -15,3 +15,4 @@ Mar 03rd, 2022 - Multithreading and multiprocessing. <br />
 Apr 05th, 2022 - Generators. <br />
 Apr 05th, 2022 - Zip. <br />
 May 18th, 2022 - IP Addresses from a file. <br />
+May 18th, 2022 - Split and add strings. <br />
