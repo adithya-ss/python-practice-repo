@@ -1,0 +1,14 @@
+name1=abv
+hostip1=1.2.3.4
+password1=sdfsf
+user1=skjdhfkahfks
+
+name2=abv
+ip_addr=1.2.3.4
+password2=sdfsf
+user2="skjdhfkahfks
+
+name3=abv
+hostip3=1.2.3.4
+password3=sdfsf
+user3=skjdhfkahfks
